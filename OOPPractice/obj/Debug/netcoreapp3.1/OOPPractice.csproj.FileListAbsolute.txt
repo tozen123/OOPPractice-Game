@@ -1,0 +1,14 @@
+C:\Users\lanzu\source\repos\OOPPractice\OOPPractice-Game\OOPPractice\bin\Debug\netcoreapp3.1\OOPPractice.exe
+C:\Users\lanzu\source\repos\OOPPractice\OOPPractice-Game\OOPPractice\bin\Debug\netcoreapp3.1\OOPPractice.deps.json
+C:\Users\lanzu\source\repos\OOPPractice\OOPPractice-Game\OOPPractice\bin\Debug\netcoreapp3.1\OOPPractice.runtimeconfig.json
+C:\Users\lanzu\source\repos\OOPPractice\OOPPractice-Game\OOPPractice\bin\Debug\netcoreapp3.1\OOPPractice.runtimeconfig.dev.json
+C:\Users\lanzu\source\repos\OOPPractice\OOPPractice-Game\OOPPractice\bin\Debug\netcoreapp3.1\OOPPractice.dll
+C:\Users\lanzu\source\repos\OOPPractice\OOPPractice-Game\OOPPractice\bin\Debug\netcoreapp3.1\OOPPractice.pdb
+C:\Users\lanzu\source\repos\OOPPractice\OOPPractice-Game\OOPPractice\obj\Debug\netcoreapp3.1\OOPPractice.csproj.AssemblyReference.cache
+C:\Users\lanzu\source\repos\OOPPractice\OOPPractice-Game\OOPPractice\obj\Debug\netcoreapp3.1\OOPPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lanzu\source\repos\OOPPractice\OOPPractice-Game\OOPPractice\obj\Debug\netcoreapp3.1\OOPPractice.AssemblyInfoInputs.cache
+C:\Users\lanzu\source\repos\OOPPractice\OOPPractice-Game\OOPPractice\obj\Debug\netcoreapp3.1\OOPPractice.AssemblyInfo.cs
+C:\Users\lanzu\source\repos\OOPPractice\OOPPractice-Game\OOPPractice\obj\Debug\netcoreapp3.1\OOPPractice.csproj.CoreCompileInputs.cache
+C:\Users\lanzu\source\repos\OOPPractice\OOPPractice-Game\OOPPractice\obj\Debug\netcoreapp3.1\OOPPractice.dll
+C:\Users\lanzu\source\repos\OOPPractice\OOPPractice-Game\OOPPractice\obj\Debug\netcoreapp3.1\OOPPractice.pdb
+C:\Users\lanzu\source\repos\OOPPractice\OOPPractice-Game\OOPPractice\obj\Debug\netcoreapp3.1\OOPPractice.genruntimeconfig.cache

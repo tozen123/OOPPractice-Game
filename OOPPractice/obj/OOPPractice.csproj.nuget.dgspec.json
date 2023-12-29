@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lanzu\\source\\repos\\OOPPractice\\OOPPractice\\OOPPractice.csproj": {}
+    "C:\\Users\\lanzu\\source\\repos\\OOPPractice\\OOPPractice-Game\\OOPPractice\\OOPPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lanzu\\source\\repos\\OOPPractice\\OOPPractice\\OOPPractice.csproj": {
+    "C:\\Users\\lanzu\\source\\repos\\OOPPractice\\OOPPractice-Game\\OOPPractice\\OOPPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lanzu\\source\\repos\\OOPPractice\\OOPPractice\\OOPPractice.csproj",
+        "projectUniqueName": "C:\\Users\\lanzu\\source\\repos\\OOPPractice\\OOPPractice-Game\\OOPPractice\\OOPPractice.csproj",
         "projectName": "OOPPractice",
-        "projectPath": "C:\\Users\\lanzu\\source\\repos\\OOPPractice\\OOPPractice\\OOPPractice.csproj",
+        "projectPath": "C:\\Users\\lanzu\\source\\repos\\OOPPractice\\OOPPractice-Game\\OOPPractice\\OOPPractice.csproj",
         "packagesPath": "C:\\Users\\lanzu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lanzu\\source\\repos\\OOPPractice\\OOPPractice\\obj\\",
+        "outputPath": "C:\\Users\\lanzu\\source\\repos\\OOPPractice\\OOPPractice-Game\\OOPPractice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
